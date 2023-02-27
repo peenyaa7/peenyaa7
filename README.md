@@ -5,7 +5,7 @@
 > *Ingeniero de software, actualmente trabajando en Videocar Analytics.*
 
 Soy un persona extrovertida y apasionada por un gran stack de tecnologías⚡. Nunca dejo de aprender 🧠 y leer 📖 en busca de ampliar mi conocimiento.
-La mayoría del tiempo estoy frente a Visual Studio Code y StackOverflow, aunque siempre consigo tiempo para estar con Foxy 🐦, mi pequeño compañero.
+La mayoría del tiempo estoy frente a ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) y ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white), aunque siempre consigo tiempo para estar con Foxy 🐦, mi pequeño compañero de vida.
 
 # Tecnologías ⚡
 
